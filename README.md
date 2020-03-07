@@ -13,13 +13,13 @@
 + [ffprobe使用指南](./src/C_FFprobe使用指南.md)
 
 ### 基于ffmpeg的开发
-+ [ffmpeg-tutorial](https://github.com/feixiao/ffmpeg-tutorial)
++ [ffmpeg-tutorial](https://github.com/jaylenlin/ffmpeg-tutorial)
 + [ffmpeg基础库编程开发](http://download.csdn.net/detail/czc1009/7028295) 
 + 音视频基础知识介绍、ffmpeg基础库的使用和源码分析。
 
 ### 源码分析
-+ [ffmpeg/ffplay源码剖析](https://github.com/feixiao/ffsrc)
-+ [基于ffmpeg-2.8.11的源码分析](https://github.com/feixiao/ffmpeg-2.8.11)
++ [ffmpeg/ffplay源码剖析](https://github.com/jaylenlin/ffsrc)
++ [基于ffmpeg-2.8.11的源码分析](https://github.com/jaylenlin/ffmpeg-2.8.11)
 
 
 ### 安装
